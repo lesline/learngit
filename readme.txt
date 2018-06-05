@@ -5,3 +5,4 @@ Creating a new branch is quick and simple.
 test no-ff
 
 test2
+test1
